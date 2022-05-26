@@ -1,4 +1,5 @@
 .player-container{
+    margin-bottom: 50px;
     display: flex;
     /* border: 2px solid green; */
     height: 280px;

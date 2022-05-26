@@ -10,7 +10,7 @@ function App() {
   const [player, setPlayer] = useState(player_data);
   const [cart, setCart] = useState([]);
   const handleCart = (player) => {
-    if (cart.filter(item => item.name == player.name).length == 0) {
+    if (cart.filter(item => item.name === player.name).length == 0) {
       // console.log('already added');
       const newCart = [...cart, player];
       setCart(newCart);
