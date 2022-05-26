@@ -1,5 +1,7 @@
 import React from 'react';
 import './Player.css'
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import { faCirclePlus } from '@fortawesome/free-solid-svg-icons'
 
 const Player = (props) => {
     const { name, img, role, salary } = props.player;
@@ -14,7 +16,8 @@ const Player = (props) => {
                 <h3>Cost: ${salary}</h3>
                 <button type="button" class="btn btn-success" onClick={() => 
                     { props.handleCart(props.player) }}
-                    >Add Player</button>
+                    ><FontAwesomeIcon icon={ faCirclePlus} />  Add Player</button>
+                
 
             </div>
 
