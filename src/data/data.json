@@ -1,0 +1,79 @@
+[
+    {
+        "name":"Shakib Al Hasan",
+        "role":"All-Rounder",
+        "img":"https://i.ibb.co/kBg5mxj/shakib.png",
+        "salary": 57000
+
+    },
+    {
+        "name":"Tamim Iqbal",
+        "role":"Batter",
+        "img":"https://resources.pulse.icc-cricket.com/players/210/287.png",
+        "salary": 56000
+
+    },
+    {
+        "name":"Mahmudullah",
+        "role":"Batter",
+        "img":"https://resources.pulse.icc-cricket.com/players/champions-trophy-2017/284/492.png",
+        "salary": 56500
+
+    },
+    {
+        "name":"Mashrafe Mortaza",
+        "role":"Bowler",
+        "img":"https://resources.pulse.icc-cricket.com/players/champions-trophy-2017/284/391.png",
+        "salary": 55000
+
+    },
+    {
+        "name":"Soumya Sarkar",
+        "role":"Batter",
+        "img":"https://resources.pulse.icc-cricket.com/players/champions-trophy-2017/284/1919.png",
+        "salary": 52000
+
+    },
+    {
+        "name":"Mehidy Hasan Miraz",
+        "role":"Allrounder",
+        "img":"https://resources.pulse.icc-cricket.com/players/champions-trophy-2017/284/1597.png",
+        "salary": 53000
+
+    },
+    {
+        "name":"Mustafizur Rahman",
+        "role":"Bowler",
+        "img":"https://resources.pulse.icc-cricket.com/players/210/1594.png",
+        "salary": 55000
+
+    },
+    {
+        "name":"Mohammad Mithun",
+        "role":"Batter",
+        "img":"https://resources.pulse.icc-cricket.com/players/284/1733.png",
+        "salary": 51000
+
+    },
+    {
+        "name":"Rubel Hossain",
+        "role":"Bowler",
+        "img":"https://resources.pulse.icc-cricket.com/players/champions-trophy-2017/284/1135.png",
+        "salary": 50000
+
+    },
+    {
+        "name":"Mosaddek Hossain",
+        "role":"Batter",
+        "img":"https://resources.pulse.icc-cricket.com/players/champions-trophy-2017/284/1588.png",
+        "salary": 52000
+
+    },
+    {
+        "name":"Sabbir Rahman",
+        "role":"Batter",
+        "img":"https://resources.pulse.icc-cricket.com/players/champions-trophy-2017/284/1734.png",
+        "salary": 53000
+
+    }
+]
